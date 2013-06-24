@@ -14,10 +14,10 @@ spring security通过用户角色的URL来限制访问,通常是用来保护Web�
 
 ### 基本结构
 运行idea创建一个maven项目
-<img src="https://github.com/excalibur/springsecuritydemo/img/1-1.jpg">
+<img src="../img/1-1.jpg">
 
 创建完成后补全目录结构，如下：
-<img src="https://github.com/excalibur/springsecuritydemo/img/1-2.jpg">
+<img src="../img/1-2.jpg">
 
 ### 运用maven 添加依赖
  什么依赖大家就自己看吧，具体代码如下：
