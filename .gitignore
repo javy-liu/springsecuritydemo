@@ -2,7 +2,7 @@
 ## Eclipse
 #################
 
-.iml
+*.iml
 target/
 .idea/
 
