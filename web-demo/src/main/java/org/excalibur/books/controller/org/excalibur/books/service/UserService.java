@@ -11,7 +11,7 @@ import org.springframework.security.access.prepost.PreAuthorize;
  */
 public interface UserService {
 
-    @PreAuthorize("#name=='faith'")
+    @PreAuthorize("hasRole('ROLE_USER')")
     public String login(String name,String password);
 
 }
